@@ -1,4 +1,4 @@
-# VirtualHub Home Assistant add-on repository
+# Yoctopuce Home Assistant add-on repository
 
 This repository can be used to install VirtualHub add-on to your Home Assistant installation.
 
