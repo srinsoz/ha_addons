@@ -1,5 +1,9 @@
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
 
+## 1.10.59147
+
+- Fix MQTT value that where no more send after connection reset
+
 ## 1.10.59079
 
 - Add support for intel CPU
