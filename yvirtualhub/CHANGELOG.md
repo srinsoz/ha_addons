@@ -1,3 +1,14 @@
+## 1.10.61199
+
+- Enable Control Flow Guard for windows
+
+
+## 1.10.61039
+
+- Trigger reconnect after changing HTTP callback protocol
+- Fix wwwWatchdog when callbacks are not working but LAN is OK
+
+
 <!-- https://developers.home-assistant.io/docs/add-ons/presentation#keeping-a-changelog -->
 
 ## 1.10.59147
