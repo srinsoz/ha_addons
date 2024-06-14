@@ -1,3 +1,9 @@
+## 1.10.61458
+
+- Add support for wwwWatchdogDelay in VirtualHub
+- Add --allow_reboot option to VirtualHub
+
+
 ## 1.10.61199
 
 - Enable Control Flow Guard for windows
