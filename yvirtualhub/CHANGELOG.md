@@ -1,3 +1,21 @@
+## 1.10.61813
+
+- UI improvements (refresh of config window, progress report during Yocto-Visualization for Web download)
+- Improve "plz wait" message.
+
+
+## 1.10.61813
+
+- UI improvements (refresh of config window, progress report during Yocto-Visualization for Web download)
+- Improve "plz wait" message.
+
+
+## 1.10.61813
+
+- UI improvements (refresh of config window, progress report during Yocto-Visualization for Web download)
+- Improve "plz wait" message.
+
+
 ## 1.10.61458
 
 - Add support for wwwWatchdogDelay in VirtualHub
