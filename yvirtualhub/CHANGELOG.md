@@ -1,3 +1,9 @@
+## 1.10.63516
+
+- Improve retrieval of calibration parameters
+- Fix memory leak
+
+
 ## 1.10.61813
 
 - UI improvements (refresh of config window, progress report during Yocto-Visualization for Web download)
