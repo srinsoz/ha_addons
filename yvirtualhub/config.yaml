@@ -1,6 +1,6 @@
 name: "VirtualHub"
 description: "The VirtualHub is a toolbox for Yoctopuce USB devices."
-version: "1.10.63516."
+version: "1.11.6964"
 url: "https://www.yoctopuce.com/EN/virtualhub.php"
 slug: "yvirtualhub"
 init: false
