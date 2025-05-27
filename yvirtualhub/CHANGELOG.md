@@ -1,3 +1,8 @@
+## 1.10.66988
+
+- Fix wrong version number in logs
+
+
 ## 1.10.66964
 
 - Fix deb package and APT releases
