@@ -1,3 +1,9 @@
+## 1.10.67725
+
+- Improve power capture UI
+- Fix version number in logs
+
+
 ## 1.10.66988
 
 - Fix wrong version number in logs
