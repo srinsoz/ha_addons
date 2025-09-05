@@ -1,3 +1,28 @@
+## 1.10.68842
+
+- Add support for continuous recording in Yocto-Watt-V2-C
+
+
+## 1.10.68819
+
+- Add support for continuous recording in Yocto-Watt-V2-C
+
+
+## 1.10.68819
+
+- Add support for continuous recording in Yocto-Watt-V2-C
+
+
+## 1.10.68819
+
+- Add support for continuous recording in Yocto-Watt-V2-C
+
+
+## 1.10.68819
+
+- Add support for continuous recording in Yocto-Watt-V2-C
+
+
 ## 1.10.67725
 
 - Improve power capture UI
