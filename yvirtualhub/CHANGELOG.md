@@ -1,3 +1,8 @@
+## 1.10.69120
+
+- Minor Fix in VirtualHub Control
+
+
 ## 1.10.68842
 
 - Add support for continuous recording in Yocto-Watt-V2-C
