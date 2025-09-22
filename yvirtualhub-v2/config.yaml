@@ -1,0 +1,16 @@
+name: "VirtualHub-V2"
+description: "The VirtualHub-V2 is a toolbox for Yoctopuce USB devices."
+version: "2.1.9141"
+url: "https://www.yoctopuce.com/EN/virtualhub.php"
+slug: "yvirtualhub-v2"
+init: false
+usb: true
+webui: "http://[HOST]:[PORT:4444]/"
+arch:
+  - armhf
+  - aarch64
+  - amd64
+  - i386
+ports:
+  4444/tcp: 4444
+  4443/tcp: 4443
